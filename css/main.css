@@ -40,6 +40,10 @@ nav ul li a {
     text-decoration: none;
 }
 
+a {
+    color: black;
+}
+
 a:visited {
     color: black;
 }
